@@ -1,0 +1,19 @@
+{
+  "name": "todos-hapi-auth-jwt-mongoose-example",
+  "version": "1.0.0",
+  "description": "Todos demo with hapi, mongoose, jwt",
+  "main": "app.js",
+  "author": "vburykh",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "hapi": "^17.8.1",
+    "mongoose": "^5.3.13",
+    "nodemon": "^1.18.6",
+    "inert": "^5.1.2",
+    "jsonwebtoken": "^8.4.0"
+  }
+}

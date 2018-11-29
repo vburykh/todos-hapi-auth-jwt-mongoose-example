@@ -1,0 +1,11 @@
+body {
+  font: 16px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+input {
+  font: 16px "Century Gothic", Futura, sans-serif;
+  padding: 2px 2px;
+  margin: 2px 2px;
+  box-sizing: border-box;
+}
